@@ -1,6 +1,6 @@
 # Data Science bootcamp capstone project 
 
-![alt text](https://media-exp3.licdn.com/dms/image/C560BAQEWKlX1LuZOfQ/company-logo_200_200/0/1519872684798?e=2159024400&v=beta&t=HhsI8i6V5lC3Up87Vx7qTviSGJI5ri2sRCY8-BaX4Ng/to/img.png)
+![alt text](https://media-exp3.licdn.com/dms/image/C560BAQEWKlX1LuZOfQ/company-logo_200_200/0/1519872684798?e=2159024400&v=beta&t=HhsI8i6V5lC3Up87Vx7qTviSGJI5ri2sRCY8-BaX4Ng)
 
 ## About Social Development Bank
 
