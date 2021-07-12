@@ -1,6 +1,6 @@
 # Data Science bootcamp capstone project 
 
-![alt text(https://pbs.twimg.com/media/D7Lf8xsXYAI9I0B.jpg)
+![alt text](https://pbs.twimg.com/media/D7Lf8xsXYAI9I0B.jpg)
 
 ## About Social Development Bank
 
