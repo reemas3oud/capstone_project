@@ -12,9 +12,19 @@ The Social Development Bank dataset was taken from Saudi Open Data Portal.
 
 <a href="https://data.gov.sa/Data/en/dataset/bank-loans-fo-2019" target="_blank">Social Development Bank Loans for 2019</a>
 
-This data scince project covers:
+## Team members
+* Buthaina Alqahtani 
+* Abeer Alhrabi 
+* Shaikhah Alhuzaimi
+* Reema Alotaibi
 
+## About the project
+
+This data science project is written with python programming languege this project covers:
+
+* Transelate dataset manually 
 * Preprocessing techniques and Exploratory Data Analysis
+* One hot encoder
+* linear regression model
 * Features sellection
 * Train and test data
-* linear regression model
