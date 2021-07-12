@@ -12,3 +12,9 @@ The Social Development Bank dataset was taken from Saudi Open Data Portal.
 
 <a href="https://data.gov.sa/Data/en/dataset/bank-loans-fo-2019" target="_blank">Social Development Bank Loans for 2019</a>
 
+This data scince project covers:
+
+* Preprocessing techniques and Exploratory Data Analysis
+* Features sellection
+* Train and test data
+* linear regression model
