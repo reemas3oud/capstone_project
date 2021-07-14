@@ -16,7 +16,7 @@ After considering and exploring the customer information that has been provided 
 
 ## Visualization
 
-
+![First plot](https://github.com/reemas3oud/capstone_project/blob/main/plot2.png)
 
 ### Markdown
 
