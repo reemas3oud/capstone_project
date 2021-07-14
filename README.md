@@ -28,3 +28,8 @@ This data science project is written with python programming languege this proje
 * linear regression model
 * Features sellection
 * Train and test data
+
+## Dashboard 
+
+<a href="https://public.tableau.com/app/profile/shikhah/viz/SocialDevelopmentBankQ1of2019/DashboardofSocialBank" target="_blank">Social Development Bank dashboard for 2019</a>
+
