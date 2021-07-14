@@ -51,32 +51,10 @@ For further information about the dashboard, here is the link :
 [Tableau Dashboard](https://public.tableau.com/app/profile/shikhah/viz/SocialDevelopmentBankQ1of2019/DashboardofSocialBank)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Model
 
-```markdown
-Syntax highlighted code block
+After data exploring and cleaning we chose the target (funding value), and encoded the  categorical features as a one-hot numeric array then saved it inside a new dataframe. After that  we  created the baseline mean absolute error.
 
-# Header 1
-## Header 2
-### Header 3
+Baseline:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reemas3oud/capstone_project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Baseline](https://lh5.googleusercontent.com/a1UyqeXpa4QCOdyG26lb5J2hKT94UZ-gNC7BYsoN1O8C6O6FyJkn94kcYz9MGRLgoixyjIQwUFZIlWS5fgTVIHo12mCeOIBapUVljxEssSRX8pdDG4TwrogBqohgyVd62CO0JBXa)
