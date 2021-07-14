@@ -25,7 +25,7 @@ This data science project is written with python programming languege this proje
 * Transelate dataset manually 
 * Preprocessing techniques and Exploratory Data Analysis
 * One hot encoder
-* linear regression model
+* ML regression model
 * Features sellection
 * Train and test data
 
