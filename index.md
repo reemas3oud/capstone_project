@@ -58,3 +58,18 @@ After data exploring and cleaning we chose the target (funding value), and encod
 Baseline:
 
 ![Baseline](https://lh5.googleusercontent.com/a1UyqeXpa4QCOdyG26lb5J2hKT94UZ-gNC7BYsoN1O8C6O6FyJkn94kcYz9MGRLgoixyjIQwUFZIlWS5fgTVIHo12mCeOIBapUVljxEssSRX8pdDG4TwrogBqohgyVd62CO0JBXa)
+
+Baseline value:
+
+![Baseline value](https://lh6.googleusercontent.com/NgNoxE8kI5rboQ2XLZrMJWUepKkRTzGUkLccwJTxDf7XZY9UAfVLUIjoCIIfnQiNh-tWTIfgwG8IxamhPgwNmsbdmP0Azy7XaUEI6qDChFSZuIC9ok0WDKo72LW-p2HPolxRj_5z)
+
+
+We chose 3 main models to predict the funding value and calculated the mean absolute error to compare and choose the best model for this data. 
+
+The 3 main models are:
+
+1- Lasso Regression: 
+Lasso regression is a regularization technique. It is used over regression methods for a more accurate prediction. This model uses shrinkage. Shrinkage is where data values are shrunk towards a central point as the mean.
+
+![Lasso Regression](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-NeoOUgHo6Dne3dWwGGUOTsk9891QgiYW2F6YKcM5lusIm3EkE1ii7M2YrhUKqxBAvPtjkdTd6iNntk9FPiq5HruntlVOzYJgNOQW0)
+
