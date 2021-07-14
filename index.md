@@ -46,6 +46,10 @@ The bar chart shows the average funding value based on customer sector and gende
 ## Tableau Dashboard 
 ![Dashboard](https://lh6.googleusercontent.com/EyzSJwsTUhSJXKJ3Dn2LVovIVAjSwTUbRHtcRBQkFttAdX1ccMsHUjVyhh_3a--2alBs0JC1USU2gjSJTM0bl1XDKCw8ZrJekCLbLoPHndi2NkTiFPEwlkDCxRQEA6vCSLIa13E1)
 
+The Tableau Dashboard illustrates information from our dataset. The map chart shows the total funding value based on every branch located in different cities in Saudi Arabia.
+For further information about the dashboard, here is the link : 
+[Tableau Dashboard](https://public.tableau.com/app/profile/shikhah/viz/SocialDevelopmentBankQ1of2019/DashboardofSocialBank)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
