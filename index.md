@@ -18,17 +18,23 @@ After considering and exploring the customer information that has been provided 
 
 ![First plot](https://github.com/reemas3oud/capstone_project/blob/main/plot2.png)
 
+```markdown
+
 The line chart shows the exchange date for the first, second, and third months. As we see from the line chart, we noticed that females have higher funding value than male, but the bar chart shows the opposite!
 Males have the most frequently requested funding values, but the average of the funding values by females was much higher.
+```
 
 ![Second plot](https://github.com/reemas3oud/capstone_project/blob/main/plot3.png)
+```markdown
 
 The bar chart shows the count of the age based on the range of the funding value. People with an age of greater than or equal to 30 have requested more than 66,000 SR, and they are the highest group of people who have requested loans
+```
 
 ![Third plot](https://github.com/reemas3oud/capstone_project/blob/main/plot4.png)
+```markdown
 
 The bar chart shows the average funding value based on family members. Families with less than 2 members have the highest average funding value, around 175,000 SR. Other families have the average between 50,000 SR and 75,000 SR.
-
+```
 ![4th plot](https://github.com/reemas3oud/capstone_project/blob/main/plot5.png)
 
 The pie chart shows the funding value based on social status. Married individuals have received the most funding value with a percentage of 86.3%.
