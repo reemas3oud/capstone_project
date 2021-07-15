@@ -38,5 +38,5 @@ This data science project is written with python programming languege this proje
 
 ## Blog 
 
-<a href="https://sdacpteam.blogspot.com/2021/07/social-development-bank-q1-of-2019.html
+<a href="https://sdacpteam.blogspot.com/2021/07/the-social-development-bank-was.html
 " target="_blank">Blog</a>
