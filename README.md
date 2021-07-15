@@ -31,5 +31,12 @@ This data science project is written with python programming languege this proje
 
 ## Dashboard 
 
+![Dashboard](https://lh6.googleusercontent.com/EyzSJwsTUhSJXKJ3Dn2LVovIVAjSwTUbRHtcRBQkFttAdX1ccMsHUjVyhh_3a--2alBs0JC1USU2gjSJTM0bl1XDKCw8ZrJekCLbLoPHndi2NkTiFPEwlkDCxRQEA6vCSLIa13E1)
+
+
 <a href="https://public.tableau.com/app/profile/shikhah/viz/SocialDevelopmentBankQ1of2019/DashboardofSocialBank" target="_blank">Social Development Bank dashboard for 2019</a>
 
+## Blog 
+
+<a href="https://sdacpteam.blogspot.com/2021/07/social-development-bank-q1-of-2019.html
+" target="_blank">Blog</a>
